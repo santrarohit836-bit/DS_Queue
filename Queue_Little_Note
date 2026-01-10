@@ -1,0 +1,11 @@
+📌 Simple Queue :-
+Insert → Last (Rear)
+Remove → Front
+
+📌 Circular Queue:-
+Insert → Last (Rear)
+Remove → Front
+
+📌 Priority Queue:-
+Insert → By Priority (Front / Last depends on priority)
+Remove → Highest Priority (Front)
