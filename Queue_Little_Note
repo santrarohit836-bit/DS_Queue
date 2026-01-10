@@ -9,3 +9,12 @@ Remove → Front
 📌 Priority Queue:-
 Insert → By Priority (Front / Last depends on priority)
 Remove → Highest Priority (Front)
+
+
+📌 Double Ended Queue (Deque) :-
+Insert → Front or Rear
+Remove → Front or Rear
+
+📌 Double Priority Queue :-
+Insert → By Priority (Front or Last)
+Remove → Highest Priority (Front) or Lowest Priority (Last)
